@@ -30,10 +30,10 @@ To create outlet
 3. Select control then Ctrl + click. It will open action events. Select one like I selected 'touch up inside' for button click and drag to code.
 
 ## Application Code and Screenshots 
-Main Page.</br>
-<img src="images/iPhone 8 Plus - 11.2 2018-05-05 19-54-56.png">
-Result Page.</br>
-<img src="images/iPhone 8 Plus - 11.2 2018-05-05 19-55-04.png">
+Main View.</br>
+<img src="images/iPhone 8 Plus - 11.2 2018-05-05 19-54-56.png"></br>
+Result View.</br>
+<img src="images/iPhone 8 Plus - 11.2 2018-05-05 19-55-04.png"></br>
 
 ## Code: ViewController.swift
 ```
